@@ -1,7 +1,7 @@
 # FABRIQUE_PROJECT
 Тестовое задание для компании "Фабрика Решений"
 
-# Необходимые действия перед началом
+# Quickstart guide
 cd fabrique_studio
 pip install -r project_package.txt
 
