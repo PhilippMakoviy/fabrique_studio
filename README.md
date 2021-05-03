@@ -20,7 +20,7 @@ python manage.py runserver
 
 
 #Тесты
-Необходимо запустить сервер python manage.py runserver
+Необходимо при запущеном сервере перейти в папку:
 
 cd FABRIQUE_STUDIO/FABRIQUE_TESTS
 pytest
